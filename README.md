@@ -2,7 +2,7 @@
 
 ToDoList is an interactive check list which any user can use for scheduling their daily tasks. A user can add and delete items from their list as they please. The site is hosted and can be accessed below:
 ```
-https://codesandbox.io/s/to-do-list-project-final-xw1rq
+https://xw1rq.csb.app
 ```
 It is completed using the React framework. It includes technologies such as JSX, CSS, JavaScript ES6 and more. In addition, React based features such as Components, Props and Hooks.
 
